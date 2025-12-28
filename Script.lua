@@ -1,3 +1,7 @@
-print("Auto-updater working!")
+print("=================================")
+print("AUTO-UPDATER TEST SUCCESSFUL!")
+print("=================================")
+print("Loaded from GitHub at: " .. os.date("%X"))
 print("Version: 1")
-
+print("If you see this, the loader works!")
+print("=================================")
